@@ -154,7 +154,7 @@ a:hover {
 }
 
 .d-bloc .navbar-toggle .icon-bar {
-    background: rgba(255, 255, 255, 1);
+    background: rgb(209, 4, 4);
 }
 
 .d-bloc .btn-wire,
@@ -1158,7 +1158,7 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
-    }
+    }   
 }
 
 @media (max-width: 767px) {
